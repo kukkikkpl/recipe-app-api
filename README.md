@@ -1,7 +1,7 @@
 # recipe-app-api
 Recipe app api source code.
 
-###Getting start
+### Getting start
 To start project, run:
 ```
 docker-compose up
